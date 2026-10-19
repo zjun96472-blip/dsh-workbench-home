@@ -1,7 +1,7 @@
 {
   "name": "dsh-workbench-home",
-  "version": "0.1.0",
-  "description": "个人 DeepSeek Harness 工作台的「工作台首页 + 试作页」独立包：左侧「工作台」入口（技能库 + 能力盘点）与「试作」入口（一页纸的设计样本页）。",
+  "version": "0.2.0",
+  "description": "个人 DeepSeek Harness 工作台的「工作台首页 + 试作页」独立包：左侧「工作台」入口（技能卡片墙 + 能力盘点 + 下一阶段）与「试作」入口（一页纸的审美样本）。只注册自己那两页的插槽，可与其它三个单页包同时装。",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
